@@ -72,6 +72,8 @@ plt.show()
 - y축 : 평균 교통량 값
 - 혼잡 시간대를 시각적으로 강조하여 한눈에 파악 가능
 - '꺾은선 그래프' 형태로, 교통량의 증감 패턴을 쉽게 이해할 수 있음
+![image](https://github.com/user-attachments/assets/5a32a49c-499a-4c93-aabe-fa34192c8aac)
+
 
 ### 해소방안
 1. 교통 관리 시스템 최적화
